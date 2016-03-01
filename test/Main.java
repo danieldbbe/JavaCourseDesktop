@@ -5,7 +5,9 @@ public class Main {
 	public static void main(String[] args) {
 		System.out.println("Hello test!");
 		System.out.println("asdasd");
-		String hej = Answer[0];
+		
+		String hej = Ansr[0];
+		
 	}
 
 }
