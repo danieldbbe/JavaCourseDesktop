@@ -6,8 +6,6 @@ public class Main {
 		System.out.println("Hello test!");
 		System.out.println("asdasd");
 		
-		String hej = Ansr[0];
-		
 	}
 
 }
